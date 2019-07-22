@@ -1,4 +1,4 @@
-# Welcome-Guide-for-newbies
+# WELCOME-GUIDE-FOR-NEWBIES
 # Technologies Used: 
 # * HTML
 # * CSS
